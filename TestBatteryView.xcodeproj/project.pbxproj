@@ -15,6 +15,7 @@
 		D21F78052391113B007DCA26 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D21F78032391113B007DCA26 /* LaunchScreen.storyboard */; };
 		D21F78102391113B007DCA26 /* TestBatteryViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D21F780F2391113B007DCA26 /* TestBatteryViewTests.swift */; };
 		D21F781B2391113B007DCA26 /* TestBatteryViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D21F781A2391113B007DCA26 /* TestBatteryViewUITests.swift */; };
+		D21F782923911165007DCA26 /* BatteryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D21F782823911165007DCA26 /* BatteryView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		D21F78162391113B007DCA26 /* TestBatteryViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestBatteryViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D21F781A2391113B007DCA26 /* TestBatteryViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestBatteryViewUITests.swift; sourceTree = "<group>"; };
 		D21F781C2391113B007DCA26 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D21F782823911165007DCA26 /* BatteryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BatteryView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				D21F77F82391113A007DCA26 /* AppDelegate.swift */,
 				D21F77FA2391113A007DCA26 /* SceneDelegate.swift */,
 				D21F77FC2391113A007DCA26 /* ViewController.swift */,
+				D21F782823911165007DCA26 /* BatteryView.swift */,
 				D21F77FE2391113A007DCA26 /* Main.storyboard */,
 				D21F78012391113B007DCA26 /* Assets.xcassets */,
 				D21F78032391113B007DCA26 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				D21F77FD2391113A007DCA26 /* ViewController.swift in Sources */,
 				D21F77F92391113A007DCA26 /* AppDelegate.swift in Sources */,
+				D21F782923911165007DCA26 /* BatteryView.swift in Sources */,
 				D21F77FB2391113A007DCA26 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

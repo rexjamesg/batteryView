@@ -1,1 +1,1 @@
-# BatteryViewTest
+# BatteryView
